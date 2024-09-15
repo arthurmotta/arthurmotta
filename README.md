@@ -79,7 +79,7 @@
         <summary><h4>🔬 Experimentais:</h4></summary>
           <p>Para explorações de tecnologias, testes e estudo novas ferramentas.</p>
           <ul>
-            <li><p><a href="url">Link do Repositório</a></p></li>
+            <li><p><a href="https://github.com/arthurmotta/curso-python3">Curso de Python3 - Gustavo Guanabara</a></p></li>
             <li><p><a href="url">Link do Repositório</a></p></li>
           </ul>
       </details>
