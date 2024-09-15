@@ -1,9 +1,4 @@
-<div>
-  <a href="https://www.linkedin.com/in/arthura/"><img src="https://github.com/arthurmotta/arthurmotta/blob/main/memoji-arthur.png" width="18%" align="right"/</a> 
-  <div>
-    <h1 style="border-bottom:none;">Olá, eu sou o Arthur!<img src="https://github.com/arthurmotta/arthurmotta/blob/main/memoji-arthur-2.png" width="5%"></h1>
-  </div>
-</div>
+<h1 style="border-bottom:none;">Olá, eu sou o Arthur!<img src="https://github.com/arthurmotta/arthurmotta/blob/main/memoji-arthur-2.png" width="5%"><a href="https://www.linkedin.com/in/arthura/"><img src="https://github.com/arthurmotta/arthurmotta/blob/main/memoji-arthur.png" width="18%" align="right"/</a> </h1>
 
 ![version :14.09.2024](https://img.shields.io/badge/última%20atualização-14.09.2024-05122A?style=flat&informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=arthurmotta&color=05122A)&nbsp;
