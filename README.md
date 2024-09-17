@@ -86,7 +86,7 @@
   <h3 style="border-bottom:none;">📫 Onde me encontrar?</h3>
   <a href="https://www.linkedin.com/in/arthura/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arthuralmeidasocial@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> 
-  <a href="https://t.me/username"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram"/></a> 
+  <a href="https://t.me/arthuralmeida"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram"/></a> 
   <a href="https://www.hackerrank.com/profile/arthurmotta"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-05122A?style=flat&logo=hackerrank"/></a>
  
 </div>
