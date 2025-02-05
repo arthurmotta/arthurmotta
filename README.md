@@ -18,7 +18,19 @@
         💬 Ficou com alguma dúvida? Ou quer saber mais? <a href="https://www.linkedin.com/in/arthura/">Me manda um alô lá no LinkedIn!</a>
     </p>
 </div>
-
+  <details>
+      <summary><h3>🔎 Bora conferir o que eu já desenvolvi por aqui?</h3></summary>
+        <ul>
+            <h4>📚 Projetos, trabalhos e exercícios desenvolvidos durante a minha graduação:</h4>
+            <p><a href="https://github.com/arthurmotta/algoritmos-avancados">Estruturas de Dados e Algoritmos Avançados</a></p><br>
+            <h4>👨🏻‍🔧 Pessoais:</h4>
+            <p>Projetos criados fora de um contexto acadêmico.</p>
+            <p><a href="url">Link do Repositório</a></p><br>
+            <h4>🔬 Experimentais:</h4>
+            <p>Para explorações de tecnologias, testes e estudo novas ferramentas.</p>
+            <p><a href="https://github.com/arthurmotta/curso-python3">Curso de Python3 - Gustavo Guanabara</a></p>
+        </ul>
+  </details>
 <div>
   <h3 style="border-bottom:none;">🛠 Quais tecnologias compõem meu conjunto de habilidades técnicas?</h3>
   <a><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Pytton"></a>
@@ -49,39 +61,6 @@
   <h3 style="border-bottom:none;">🛠 Qual metodologia ágil eu já utilizei?</h3>
   <a><img src="https://img.shields.io/badge/-Scrum%20Alliance%20Certified-05122A?style=flat&logo=scrumalliance" alt="Scrum"></a>&nbsp;
 </div>
-
-<div>
-  <details>
-    <summary><h3>🔎 Bora conferir o que eu já desenvolvi por aqui?</h3></summary>
-    <ul>
-      <details>
-        <summary><h4>📚 Acadêmicos:</h4></summary>
-          <p>Projetos, trabalhos, exercícios e anotações desenvolvidos durante a minha graduação.</p>
-          <ul>
-            <li><p><a href="url">Link do Repositório</a></p></li>
-            <li><p><a href="url">Link do Repositório</a></p></li>
-          </ul>
-      </details>
-      <details>
-        <summary><h4>👨🏻‍🔧 Pessoais:</h4></summary>
-          <p>Projetos criados fora de um contexto acadêmico.</p>
-          <ul>
-            <li><p><a href="url">Link do Repositório</a></p></li>
-            <li><p><a href="url">Link do Repositório</a></p></li>
-          </ul>
-      </details>
-      <details>
-        <summary><h4>🔬 Experimentais:</h4></summary>
-          <p>Para explorações de tecnologias, testes e estudo novas ferramentas.</p>
-          <ul>
-            <li><p><a href="https://github.com/arthurmotta/curso-python3">Curso de Python3 - Gustavo Guanabara</a></p></li>
-            <li><p><a href="url">Link do Repositório</a></p></li>
-          </ul>
-      </details>
-    </ul>
-  </details>
-</div>
-
 <div>
   <h3 style="border-bottom:none;">📫 Onde me encontrar?</h3>
   <a href="https://www.linkedin.com/in/arthura/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
