@@ -7,7 +7,7 @@
     <h3 style="border-bottom:none;">👨🏻 Um breve resumo sobre mim:</h3>
     <p>
         🏫 Sou estudante de Engenharia de Software (8° período) no Instituto Infnet.<br>
-        📍 Atualmente, estou cursando disciplinas voltadas para Inteligência Artificial e Machine Learning, com ênfase em engenharia de dados para modelos de aprendizado e no ciclo de vida de modelos de IA.
+        📍 Atualmente, estou cursando disciplinas voltadas para Inteligência Artificial e Machine Learning, com ênfase em engenharia de dados para modelos de aprendizado e no ciclo de vida de modelos de IA. <br>
         💡 Além da graduação, tenho me dedicado a aprender Linux e Docker no meu tempo livre, com o objetivo de dominar a conteinerização.<br>
         🔜 Meu próximo desafio independente é dominar Kubernetes e Kafka para gerenciar e escalar esses contêineres de forma mais eficiente e construir streaming de dados robustos.<br>
         💼 Durante quase 1 ano, atuei como desenvolvedor Full-Stack em uma rede varejista. Posteriormente, por 2 anos, combinei as funções de Scrum Master e Full-Stack em uma agência reguladora do governo federal.<br>
